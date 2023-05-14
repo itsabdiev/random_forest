@@ -2,7 +2,7 @@ import csv
 import random
 
 
-attributes = ['Sales', 'CompPrice', 'Income', 'Advertising', 'Population', 'Price', 'ShelveLoc', 'Age', 'Education', 'Urban', 'KG']
+attributes = ['Sales', 'CompPrice', 'Income', 'Advertising', 'Population', 'Price', 'ShelveLoc', 'Age', 'Education', 'Urban', 'US']
 data = []
 for _ in range(400):
     row = [
